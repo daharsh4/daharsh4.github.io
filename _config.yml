@@ -14,9 +14,12 @@ author: David Harsh
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Test Jekyll: "https://aka.ms/dharshmstrworld"
-    - Learn markdown: "https://aka.ms/dharshlinux"
-  Author's home: "https://aka.ms/dharshmstrworld"
+    - MicroStrategy World 2017: "https://aka.ms/dharshmstrworld"
+    - Strata 2017: "https://aka.ms/dharshlinux"
+    - Linux Foundation: "https://aka.ms/dharshlinux"
+    - PowerApp Goverance for Government: "https://aka.ms/powergov"
+    - It Investment Tracker: "https://aka.ms/itinvestment"
+    - Gold Club FY20: "https://aka.ms/dharshgold"
 
 # --- Logo --- #
 
