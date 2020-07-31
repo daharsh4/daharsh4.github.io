@@ -14,9 +14,9 @@ author: David Harsh
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "https://aka.ms/dharshmstrworld"
+    - Learn markdown: "https://aka.ms/dharshlinux"
+  Author's home: "https://aka.ms/dharshmstrworld"
 
 # --- Logo --- #
 
@@ -38,7 +38,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
+  email: "daharsh4@gmail.com"
   facebook: dah5ek
   github: daharsh4
   twitter: daharsh4
