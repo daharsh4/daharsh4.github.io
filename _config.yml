@@ -13,13 +13,14 @@ author: David Harsh
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - MicroStrategy World 2017: "https://aka.ms/dharshmstrworld"
+  Conference Presentations:
+    - MSTR World 2017: "https://aka.ms/dharshmstrworld"
     - Strata 2017: "https://aka.ms/dharshlinux"
+  Work Projects:
     - Linux Foundation: "https://aka.ms/dharshlinux"
     - PowerApp Goverance for Government: "https://aka.ms/powergov"
     - It Investment Tracker: "https://aka.ms/itinvestment"
-    - Gold Club FY20: "https://aka.ms/dharshgold"
+  Gold Club FY20: "https://aka.ms/dharshgold"
 
 # --- Logo --- #
 
