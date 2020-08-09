@@ -16,7 +16,7 @@ Growing comfortable in a technical role at Microsoft might be a dream for some b
 ## Why am I a good fit?
 As it becomes more and more imperative to win the data estate of customers, Scott Guthrie highlighted how this new type of sale is deeply technical. I believe I pose the necessary combination of business acumen with the technical depth that will be required to go far in this role. I was able to easily pass DP-200, DP-201 (Azure Data Engineer), AI-100 (Azure AI Engineer), DA-100 (Power BI), AZ-900(Azure Fundamentals) , MS-900 (M365 Fundamentals) and have spent an extensive amount of time as a product manager leading teams of engineers to deliver a Big Data Engine at MicroStrategy. 
 
-# What experience do you have hunting and driving technical engagements in a territory?
+### What experience do you have hunting and driving technical engagements in a territory?
 - For the last 7 years, I have been in roles working with some of the largest customers in the world to drive successful engagements on some of their largest data workloads.
 	• 2014 - My Big Data journey began in 2014, when I was the first consultant to successfully stand up a BI connection to Presto at Netflix.
 	 
