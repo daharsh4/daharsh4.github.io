@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MicroStrategy World
-subtitle: test
+title: Untapped potential
+subtitle: Career shows strong potential to excel as Data & AI SSP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
