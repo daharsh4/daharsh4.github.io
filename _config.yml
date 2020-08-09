@@ -13,6 +13,8 @@ author: David Harsh
 
 navbar-links:
   About Me: "aboutme"
+  Resume:
+    - Resume: "https://1drv.ms/b/s!AjFcs0P3O9dCggYl24GtFET2o2_n"
   Work Projects:
     - Linux Foundation: "https://aka.ms/dharshlinux"
     - PowerApp Goverance for Government: "https://aka.ms/powergov"
