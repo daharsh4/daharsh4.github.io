@@ -12,8 +12,7 @@ author: David Harsh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resume:
+  About Me:
     - Resume: "https://1drv.ms/b/s!AjFcs0P3O9dCggYl24GtFET2o2_n"
     - Hobbies: "https://daharsh4.github.io/2020-08-09-flake-it-till-you-make-it/"
   Work Projects:
