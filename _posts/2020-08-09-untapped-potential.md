@@ -5,7 +5,6 @@ subtitle: Career shows strong potential to excel as Data & AI SSP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
 
 I believe my career has shown I exhibit a strong potential to excel as a Data & AI SSP. I hope to address many questions that may come up as I apply to this new role. 
