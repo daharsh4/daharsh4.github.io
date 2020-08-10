@@ -24,7 +24,7 @@ The following links give a good snapshot into some of the things I have been up 
 
     
 ## Evangelizing
- [MicroStrategy World](https://aka.ms/dharshmstrworld) and [Strata Data](https://aka.ms/dharshstrata) conferences were two conferences that I spoke at when working for MicroStrategy as their Big Data Product Manager. I was then 
+ [MicroStrategy World](https://aka.ms/dharshmstrworld) and [Strata Data](https://aka.ms/dharshstrata) conferences were two conferences that I spoke at when working for MicroStrategy as their Big Data Product Manager.
     
  [Linux Foundation](https://aka.ms/dharshlinux) was an article published in November of 2019 by the Linux Foundation. Based on some of the work I have been doing over the last couple of years, I was invited to represent Microsoft in this whitepaper that highlights how various BI tools can use AI. Navigate to page 4 to see the beginning of my section.
      
