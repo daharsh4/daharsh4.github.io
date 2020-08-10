@@ -23,6 +23,11 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+assets/img/ylpicture.png
+
+
+assets/img/realpicture.png
+
 
 How about a yummy crepe?
 
