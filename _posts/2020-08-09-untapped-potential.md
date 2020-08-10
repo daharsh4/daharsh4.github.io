@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
-I believe my career has shown I exhibit a strong potential to excel as a Data & AI SSP. I hope to address many questions that may come up as I apply to this new role. 
+I believe my career has shown I exhibit a strong potential to excel as a Data and AI SSP. I hope to address many questions that may come up as I apply to this new role. 
 
 ## Why do I want a role change? 
 Growing comfortable in a technical role at Microsoft might be a dream for some but makes me feel a tad bit underutilized and restless.  I believe I can make a stronger business impact in a Data & AI SSP role, driving data strategy conversations and more importantly building long-lasting relationships with business decision makers that go far beyond a specific technical engagement. 
