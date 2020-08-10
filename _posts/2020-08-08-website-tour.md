@@ -16,6 +16,7 @@ Learning  :
  Building: 
     - PowerApp Goverance for Federal Gov: "https://aka.ms/powergov"
     - It Investment Tracker: "https://aka.ms/itinvestment"
+    
 Evangelizing:
     - MSTR World 2017: "https://aka.ms/dharshmstrworld"
     - Strata 2017: "https://aka.ms/dharshstrata"
