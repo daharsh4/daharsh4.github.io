@@ -27,5 +27,4 @@ The following links give a good snapshot into some of the things I have been up 
  [Linux Foundation](https://aka.ms/dharshlinux) was an article published in November of 2019 by the Linux Foundation. Based on some of the work I have been doing over the last couple of years, I was invited to represent Microsoft in this whitepaper that highlights how various BI tools can use AI. Navigate to page 4 to see the beginning of my section.
      
  [Gold Club FY20](https://aka.ms/dharshgold) highlights some of my specific accomplishments for FY20. 
- 
- **Note:** You will only be able to navigate to this link with a FTE Microsoft account. 
+ {: .box-note} **Note:** You will only be able to navigate to this link with a FTE Microsoft account. 
