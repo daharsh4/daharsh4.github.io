@@ -2,9 +2,9 @@
 layout: post
 title: Website Tour
 subtitle: Familiarize yourself with links on this page
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/tour2.png
+thumbnail-img: /assets/img/tour.png
+share-img: /assets/img/tour2.png
 ---
 
 ![Website Links](https://daharsh4.github.io/assets/img/bannerpic.png)
