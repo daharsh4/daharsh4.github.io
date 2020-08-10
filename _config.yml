@@ -12,16 +12,16 @@ author: David Harsh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me:
+  Learn:
     - Resume: "https://1drv.ms/b/s!AjFcs0P3O9dCggYl24GtFET2o2_n"
     - Hobbies: "https://daharsh4.github.io/2020-08-02-hobbies/"
-  Work Projects:
-    - Linux Foundation: "https://aka.ms/dharshlinux"
+  Build: 
     - PowerApp Goverance for Government: "https://aka.ms/powergov"
     - It Investment Tracker: "https://aka.ms/itinvestment"
-  Conference Talks:
+  Evangelize:
     - MSTR World 2017: "https://aka.ms/dharshmstrworld"
     - Strata 2017: "https://aka.ms/dharshstrata"
+    - Linux Foundation: "https://aka.ms/dharshlinux"
   Gold Club FY20: "https://aka.ms/dharshgold"
 
 # --- Logo --- #
