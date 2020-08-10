@@ -1,12 +1,42 @@
 ---
 layout: post
-title: Sample blog post
+title: Attack Plan
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
+
+Hypothetical Plan of Attack (first 90 days)
+
+What experience do I have with research labs?
+- Board of national medical examiners 
+- NIH 
+- Pureists; everywhere from addressing them as "doctor" etc.; hunting after the agencies that have access to grant funding (firehouse) 
+- Decentralized; empowering the mission units that they can make the decision; 
+
+
+Why would it be a dream to work for the Department of Energy?
+Advanced data research; renewable energy is something that is life changing. For the first time my passion for the third world and technology could become coupled. 
+
+
+What ideas do you have for FY21? 
+
+From a customer engagement perspective - 
+Helping people tell their story 
+- Consolidating user communities (organizing a champions call to let early adopters discuss their progress (timing and audience very important)  ) 
+
+From an Internal Perspective
+ACR ACR ACR. AE, ATS, 
+Enlist the support of my peers. Show them how these workloads are a lot stickier ; Gaining a data workload is going to be stickier than 
+We find these workloads are stickier than 
+- PowerBI Premium - 3,700 ACR
+
+From an Individual Perspective 
+-> internal certifications
+-> msx opps (engage with opp owners where possible)
+-> department of energy research 
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
