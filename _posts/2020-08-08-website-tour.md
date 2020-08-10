@@ -14,12 +14,12 @@ The following links give a good snapshot into some of the things I have been up 
 ## Building
    [PowerApp Goverance for Federal Gov](https://aka.ms/powergov)
    
-   ![interview1](https://daharsh4.github.io/assets/img/interview.png)
+   ![interview2](https://daharsh4.github.io/assets/img/interview.png)
     In this website, you will be able to navigate to several resources that I have made available for customers looking to learn more about governance best practices for Power Apps. Part of this website you will be able to navigate to a few interviews that I conducted with National Park Service and Center for Diesease Control to help them tell their story. 
 
   [It Investment Tracker](https://aka.ms/itinvestment)
   
-  ![investment1](https://daharsh4.github.io/assets/img/investment.png)
+  ![investment2](https://daharsh4.github.io/assets/img/investment.png)
     Navigate to this link to see a report that I built for using OMB data from itdashboard.gov. This is a publicly available PowerBI IT Investment report that can be shared with any CIO interested in seeing how Power BI can be used to help them track/compare their spending.
 
     
