@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untapped potential
+title: Untapped Potential
 subtitle: Career shows strong potential to excel as Data & AI SSP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -18,7 +18,7 @@ Growing comfortable in a technical role at Microsoft might be a dream for some b
 ## What experience do you have hunting and driving technical engagements in a territory?
 For the last 7 years, I have been in roles working with some of the largest customers in the world to drive successful engagements on some of their largest data workloads.
 
-- **2014** - I led an 8-week technology pilot project to introduce a new analytical engine to Facebook (to replace Vertica) working along side the Data Engineering Director at Facebook (Guy Bayes) ultimately sending several emails to the CIO (Tim Campos) to report our successful project. Success of pilot led to several million dollars in additional MicroStrategy licenses. 
+- **2014** - I led an 8-week technology pilot project to introduce a new analytical engine to Facebook (to replace Vertica) working alongside the Data Engineering Director at Facebook (Guy Bayes) ultimately sending several emails to the CIO (Tim Campos) to report our successful project. Success of pilot led to several million dollars in additional MicroStrategy licenses. 
 
 - **2015** - I was responsible for identifying and managing several strategic accounts that would participate as "Early Adopters" of the new release of our Platform. First, I had to work with our internal account teams to convince them that our engagement would lead to a net positive experience for them. Second, set clear expectations with the customer. And third, deliver results to several executive audience members. This resulted in solo pilot engagements to showcase our new platform features to 15 customers in 7 countries in 18 months. (USA: Facebook, Netflix, NBME, BMC, Freddie Mac; France: Carrefour; Canada: Loblaws, Toronto Transit Commission; Germany: Zalando, ThyssenKrupp, Xing; Isreal: Redbend, LivePerson; Latvia: Visma; Argentina: Sistemas Globales)
 
