@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untapped Potential
+title: Untapped Capacity
 subtitle: Career shows strong potential to excel as Data & AI SSP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
