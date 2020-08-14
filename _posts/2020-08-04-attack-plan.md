@@ -24,3 +24,6 @@ I will also begin to subscribe to and track several DoE and Federal Blogs to mak
 As I quickly ramp up in several other areas, I know that I cannot sell anything, if I don't meet with and build relationships with the customer. I will look to quickly introduce myself (or be introduced) to several key stakeholders on the customer side and *seek to understand their problems before being understood. *
 
 As these relationships grow, I hope I can get to a point where I can begin to introduce several of my customer relationships to each other. I have found whenever working with decentralized organizations some of the best "selling" you can do is simply making connections within the organization. NIH and DOI have both benefited from monthly centralized calls that I have looked to organize to discuss the progress of various technical engagements I have running with them. For these calls, I know that the timing and audience will be very important. 
+
+## Forecasting and Pipeline management
+
