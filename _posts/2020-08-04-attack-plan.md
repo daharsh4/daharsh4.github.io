@@ -18,8 +18,6 @@ In addition to several key personal relationships that I would look to foster an
 
 On top of this I know I will benefit from having the **DP-200**, **DP-201**, and **AI-100** certifications complete.
 
-I will also begin to subscribe to and track several DoE and Federal Blogs to make sure I am staying ahead of the news. 
-
 ## Customer engagement
 As I quickly ramp up in several other areas, I know that I cannot sell anything, if I don't meet with and build relationships with the customer. I will look to quickly introduce myself (or be introduced) to several key stakeholders on the customer side and *seek to understand their problems before being understood. *
 
