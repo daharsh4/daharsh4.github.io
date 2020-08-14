@@ -24,18 +24,3 @@ I will also begin to subscribe to and track several DoE and Federal Blogs to mak
 As I quickly ramp up in several other areas, I know that I cannot sell anything, if I don't meet with and build relationships with the customer. I will look to quickly introduce myself (or be introduced) to several key stakeholders on the customer side and *seek to understand their problems before being understood. *
 
 As these relationships grow, I hope I can get to a point where I can begin to introduce several of my customer relationships to each other. I have found whenever working with decentralized organizations some of the best "selling" you can do is simply making connections within the organization. NIH and DOI have both benefited from monthly centralized calls that I have looked to organize to discuss the progress of various technical engagements I have running with them. For these calls, I know that the timing and audience will be very important. 
-
-## Leverage Career Experience 
-What experience do I have with research labs?
-- Board of national medical examiners - MicroStrategy 
-- NIH - NHLBI, NCATS, NCI, CIT - Microsoft
-- A lot of the funding patterns are very decentralized. Collaboration and a stick-to-it-ive approach to a sales cycle will be critical to success
-- Career scientists and researchers are skeptical of sales. Deep technical prowess combined with establishing rapport early/often is important to winning their trust 
-
-Why would it be a dream to work for the Department of Energy?
-From what I know about the Department of Energy, it would be a dream to drive their data & AI strategy. The advanced research these labs are looking to perform would stretch the bounds of Azure to new frontiers. I also believe some of the relationships I would form in these different offices could postively impact the work I am looking to more actively engage in in several developing countries. 
-
-In a previous life, 10 years ago, I worked with a 5-person team to form a LLC called [PureMadi](https://www.puremadi.org) (madi translates to "water") to build a ceramic water filter factory in South Africa. I document my experience in [http://daharsh4.blogspot.com/](http://daharsh4.blogspot.com/). Our team (was separately funded from a Jefferson Public Citizen grant) worked to receive a $40K "Deepening Global Education" grant to build the factory and worked with a civil engineering professor that had a $300k grant from NIH to identify the appropriate ratio of silver nanoparticles to clay. This type of work was particularly rewarding because it showed me at a young age how technology can be used to improve the lives of so many people. 
-
-![sa3](https://daharsh4.github.io/assets/img/sa.png)
-![sa23](https://daharsh4.github.io/assets/img/sa2.png)
