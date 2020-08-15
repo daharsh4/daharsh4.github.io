@@ -36,7 +36,7 @@ Whether in a technical product management role or a pre-sales solutions architec
 
 **ECIF made easy** My work with partners (SolidQ, Pragmatic Works, Accenture Federal Services) to secure over $100,000 of ECIF in a few of my deals have helped to drive adoption. I used lessons learned from USDA ECIF with SolidQ to benefit other sellers. I worked with Paco Gonzalez, CEO of SOlidQ, to develop an elastic SOW that can be applied to any deal to help drive PowerBI. Impact: Streamlined partner engagements for post-sales motions. 
 
-**Power Apps and Power Automate for FY20:** With less than The Federal Biz Apps SSPs that I supported obtained 231% of their target in the federal business in FY20. 
+**Effectively a Power Apps and Power Automate SSP for FY20:** As the Power Platform was released in GCC in FY20, there was very limited SSP coverage of this increasingly viral technology platform. I was leading ATU strategy, demo, and licensing conversations for 8 of our 11 Federal Civilian Strategic accounts. My breadth of experience driving new technologies in customer conversations was immediately valuable. The Federal Biz Apps SSPs that I supported obtained 231% of their target in the federal business in FY20 and I was selected into FY20 Gold Club. More details can be found in [David's gold club article](https://aka.ms/dharshgold)
 
 
 ## What experience do you have driving technical engagements in a territory?
