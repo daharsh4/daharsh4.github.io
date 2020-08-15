@@ -15,7 +15,7 @@ The following links give a good snapshot into some of the things I have been up 
    [Power App Goverance for Federal Gov](https://aka.ms/powergov)
    
    ![interview2](https://daharsh4.github.io/assets/img/interview.png)
-In this website, you will be able to navigate to several resources that I have made available for customers looking to learn more about governance best practices for Power Apps. Part of this website you will be able to navigate to a few interviews that I conducted with National Park Service and Center for Disease Control to help them tell their story. 
+Navigate to this link to see several resources that I have made available for customers looking to learn more about governance best practices for Power Apps. In this library of resources, you will be able to navigate to a few interviews that I conducted with National Park Service and Center for Disease Control to help them tell their story. 
 
   [It Investment Tracker](https://aka.ms/itinvestment)
   
@@ -24,7 +24,7 @@ Navigate to this link to see a report that I built for using OMB data from itdas
 
     
 ## Evangelizing
- [MicroStrategy World](https://aka.ms/dharshmstrworld) and [Strata Data](https://aka.ms/dharshstrata) conferences were two conferences that I spoke at when working for MicroStrategy as their Big Data Product Manager.
+ [MicroStrategy World](https://aka.ms/dharshmstrworld) and [Strata Data](https://aka.ms/dharshstrata) conferences were two conferences that I spoke at when working for MicroStrategy as their Big Data Product Manager. My session from MicroStrategy World 2017 on the Hadoop Gateway is a must watch. I describe the validation process we took to release the Big Data Engine (aka the Hadoop Gateway). I present about several successful customer engagements. 
     
  [Linux Foundation](https://aka.ms/dharshlinux) was an article published in November of 2019 by the Linux Foundation. Based on some of the work I have been doing over the last couple of years, I was invited to represent Microsoft in this whitepaper that highlights how various BI tools can use AI. Navigate to page 4 to see the beginning of my section.
      
