@@ -32,16 +32,11 @@ Whether in a technical product management role or a pre-sales solutions architec
 
 **Big Data Validation Engagements**  **Carrefour** - In 2016, I Lambda Architecture to explore using kafka with some of their largest datasets in HDFS. 750K
 
-**High-impact presentations** to drive awareness, prevent competition, and encourage adoption. Presented at Farm Credit IT Symposium to audience of 30+ IT managers from various Farm Credits. (Impact: Farm Credit $129K of PBI and $151K E5 in FY19) Orchestrated PowerBI day at SBA to prevent Tableau from continuing to grow influence. Meeting will now be repeated quarterly, owned by SBA. (Impact: SBA $250K of PBI; $1.23M E5 in FY19) 
+- **2018** - In my first few months of joining Microsoft, I developed several key internal and external relationships that have helped to amplify my work for the last couple of years. Developing several strong key relationships within the ATU helped me to establish Power BI as a key component of our Enterprise sales strategies leading to Power BI reaching 366% of target. 
 
-• ECIF made easy : Used lessons learned from USDA ECIF to benefit other sellers. Developed an elastic SOW with partner (SolidQ) that can be applied to any deal to help drive PowerBI. Impact: Streamlined partner engagements 
+**ECIF made easy** My work with partners (SolidQ, Pragmatic Works, Accenture Federal Services) to secure over $100,000 of ECIF in a few of my deals have helped to drive adoption. Used lessons learned from USDA ECIF to benefit other sellers. Developed an elastic SOW with partner (SolidQ) that can be applied to any deal to help drive PowerBI. Impact: Streamlined partner engagements for post-sales motions. 
 
 **Power Apps and Power Automate for FY20:** With less than The Federal Biz Apps SSPs that I supported obtained 231% of their target in the federal business in FY20. 
-
-- **2018** - In my first few months of joining Microsoft, I developed several key internal and external relationships that have helped to amplify my work for the last couple of years. Developing several strong key relationships within the ATU helped me to establish Power BI as a key component of our Enterprise sales strategies leading to Power BI reaching 366% of target. My work with partners (SolidQ, Pragmatic Works, Accenture Federal Services) to secure over $100,000 of ECIF in a few of my deals have helped to drive adoption. 
-
-- **2019** - Despite being introduced to a new technology stack (Power Apps and Power Automate) where I had very limited career experience, I was responsible for developing the ATU Power Platform strategy for 8 of our 11 Fed Civilian Strategic accounts during the banner FY20 year. Identifying gaps in what we were delivering to customers and then working with a few GBBs showcased how I can drive value even when unfamiliar with the technology. 
-
 
 
 ## What experience do you have driving technical engagements in a territory?
@@ -55,6 +50,9 @@ For the last 7 years, I have been in roles working with some of the largest cust
 
 - **2017** - After successfully testing the Hadoop Gateway at several customers, I submitted several proposals to promote this new technology. After my presentation at our annual MicroStrategy World conference [https://aka.ms/dharshmstrworld](https://aka.ms/dharshmstrworld), I was invited to speak at the 2017 New York Strata Data conference with Cloudera. [https://aka.ms/dharshstrata](https://aka.ms/dharshstrata) Not only was it important to individually deliver results for every customer, evangelizing this success at these conferences gave my peers and customers publicly available information that they could use to further drive successful sales engagements. By September 2017, 15 of our largest 30 customers had successfully deployed the Hadoop Data Gateway.
 
+- **2018** - I delivered several high-impact presentations to drive awareness, prevent competition, and encourage adoption. Presented at Farm Credit IT Symposium to audience of 30+ IT managers from various Farm Credits. (Impact: Farm Credit $129K of PBI and $151K E5 in FY19) Orchestrated PowerBI day at SBA to prevent Tableau from continuing to grow influence. Meeting will now be repeated quarterly, owned by SBA. (Impact: SBA $250K of PBI; $1.23M E5 in FY19) 
+
+- **2019** - Despite being introduced to a new technology stack (Power Apps and Power Automate) where I had very limited career experience, I was responsible for developing the ATU Power Platform strategy for 8 of our 11 Fed Civilian Strategic accounts during the banner FY20 year. Identifying gaps in what we were delivering to customers and then working with a few GBBs showcased how I can drive value even when unfamiliar with the technology. 
 
 ## Perspectives (not your typical TSP) 
 *"DAVID IS AWESOME! He’s having meetings, driving business, and moving things forward – I love that! He’s having meetings and I didn’t even know they were happening – which is GREAT! It means he’s taking ownership and allowing me to scale on other things!"* ~MWP SSP, Fed Civ
