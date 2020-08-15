@@ -12,7 +12,7 @@ share-img: /assets/img/tour2.png
 The following links give a good snapshot into some of the things I have been up to over the last few years. 
 
 ## Building
-   [Power App Goverance for Federal Gov](https://aka.ms/powergov)
+   [Power App Governance for Federal Gov](https://aka.ms/powergov)
    
    ![interview2](https://daharsh4.github.io/assets/img/interview.png)
 Navigate to this link to see several resources that I have made available for customers looking to learn more about governance best practices for Power Apps. In this library of resources, you will be able to navigate to a few interviews that I conducted with National Park Service and Center for Disease Control to help them tell their story. 
