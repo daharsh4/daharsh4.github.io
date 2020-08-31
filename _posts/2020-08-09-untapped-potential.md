@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Untapped Capacity
-subtitle: Career shows strong potential to excel as Data & AI SSP
+subtitle: Career shows strong potential to excel as SSP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
-My career has shown I exhibit a strong potential to excel as a Data and AI SSP. I hope to address many questions that may come up as I apply to this new role. 
+My career has shown I exhibit a strong potential to excel as a SSP. I hope to address many questions that may come up as I apply to this new role. 
 
 ## Why a role change would benefit Microsoft 
-I am most utilized when working with business decision makers to solve some of their most difficult problems. For the last 7 years, I have been working with some of the largest companies in the world to introduce new data technologies and know I can make a stronger business impact in a Data & AI SSP role, driving data strategy conversations for Microsoft. 
+I am most utilized when working with business decision makers to solve some of their most difficult problems. For the last 7 years, I have been working with some of the largest companies in the world to introduce new data technologies and know I can make a stronger business impact in a SSP role, driving data strategy conversations for Microsoft. 
 
 ## Why am I a good fit?
-*"Winning the data estate of customers is deeply technical and is a new "room" in the house compared to the ones we typically sell to."* -Scott Guthrie. I possess the necessary combination of business experience, business acumen, and technical depth that will be required to go far in this role. Supporting nascent technologies, I have been operating as a "Power Platform SSP" for the last several years to great success. I have also passed DP-200, DP-201 (Azure Data Engineer), AI-100 (Azure AI Engineer), DA-100 (Power BI), AZ-900 (Azure Fundamentals) , MS-900 (M365 Fundamentals) and have spent an extensive amount of time as a product manager leading teams of engineers to deliver a Big Data Engine at MicroStrategy. The most successful Data & AI SSPs will be those that are able to *hunt and lead strategy conversations internally on account teams/externally with customers* **AND** *drive deeply technical engagements.*
+*"Winning the data estate of customers is deeply technical and is a new "room" in the house compared to the ones we typically sell to."* -Scott Guthrie. I possess the necessary combination of business experience, business acumen, and technical depth that will be required to go far in this role. Supporting nascent technologies, I have been operating as a "Power Platform SSP" for the last several years to great success. I have also passed DP-200, DP-201 (Azure Data Engineer), AI-100 (Azure AI Engineer), DA-100 (Power BI), AZ-900 (Azure Fundamentals) , MS-900 (M365 Fundamentals) and have spent an extensive amount of time as a product manager leading teams of engineers to deliver a Big Data Engine at MicroStrategy. The most successful SSPs will be those that are able to *hunt and lead strategy conversations internally on account teams/externally with customers* **AND** *drive deeply technical engagements.*
 
 ## By the numbers:
 
