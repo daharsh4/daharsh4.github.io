@@ -26,7 +26,7 @@ I am most utilized when working with business decision makers to solve some of t
 
 Whether in a technical product management role or a pre-sales solutions architect role, I have always been focused on driving an increase in sales. 
 
-- **Netflix** - I was the first consultant to successfully visualize data from Presto with a Business Intelligence tool at Netflix by using a JDBC driver to extract the data from the source system. <<RESULT>>
+**Netflix** - I was the first consultant to successfully visualize data from Presto with a Business Intelligence tool at Netflix by using a JDBC driver to extract the data from the source system. This success drove two strategic engagements with Facebook and eBay. (see below)
 
 **Facebook** - In 2015, I led an 8-week technology pilot project to introduce a new analytical engine to Facebook (to replace their need for Vertica) working alongside the Data Engineering Director at Facebook (Guy Bayes) ultimately sending several emails to the CIO (Tim Campos) to report our successful project. Success of pilot led to $6.5 million of MicroStrategy licenses (3.5M recurring and 3M new). 
 
@@ -49,3 +49,5 @@ Whether in a technical product management role or a pre-sales solutions architec
 *"There are very few TSPs that I can think of who are even close to having the seller mentality that you do. You sound excited and passionate about what you are selling which is so important. We need to show our belief in our products rather than just have a dry technical discussion. You are so good at bringing that fire to every customer interaction."* ~Data & AI SSP, Fed Civ
 
 *"David...thanks for all the great work you are doing with our customers...I don’t think there is a customer in our space you haven’t worked with and when you do progress is always made.  Appreciate the creative thinking, enthusiasm, and passion for the business/work you are doing...it’s infectious.  You make it look effortless although we all know there is a lot of preparation and work that goes into this.  Thanks again for the support.  Nice job!!"* ATU Manager, Fed
+
+*"David is a natural leader and he has a way about him where people want to follow his lead... If I had to pick one thing to describe David's approach it would be Generate Energy. David's excitement for solving problems is infectious and when that is paired with his learn it all attitude he is able to easily inspire groups." Biz Apps Manager, Fed
